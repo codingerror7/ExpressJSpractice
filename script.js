@@ -17,6 +17,15 @@ app.use("/",(req,res)=>{
 // app.get("/components",(req,res)=>{
 //     res.send("THESE ARE COMPONENTS!");
 // })
+// app.get('*',(req,res)=>{
+//     res.send("THIS IS A WRONG ROUTE!");
+// })
+// app.post("/apple",(req,res)=>{
+//      res.send("THIS IS APPLE.");
+//  })
+// app.put("/orange",(req,res)=>{
+//      res.send("THIS IS ORANGE!");
+//  })
 app.listen(port,()=>{
     console.log(`WELCOME, YOU ARE AT PORT ${port}`);
 })
