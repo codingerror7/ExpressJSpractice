@@ -14,5 +14,4 @@ It provides tools to easily define **routes**, handle **requests/responses**, wo
 
 ---
 
-## 📁 Folder Structure
 
