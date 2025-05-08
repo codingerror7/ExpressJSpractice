@@ -11,6 +11,12 @@ app.use("/",(req,res)=>{
 // app.get("/services",(req,res)=>{
 //     res.send("THIS IS SERVICES PAGE!");
 // })
+//app.get("/resources",(req,res)=>{
+//     res.send("THIS IS RESOURCES PAGE!");
+// })
+// app.get("/components",(req,res)=>{
+//     res.send("THESE ARE COMPONENTS!");
+// })
 app.listen(port,()=>{
     console.log(`WELCOME, YOU ARE AT PORT ${port}`);
 })
