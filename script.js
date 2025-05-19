@@ -35,3 +35,9 @@ ANOTHER ROUND:
 // const express = require("express");
 // const app = express();
 // let port = 3000;
+// app.use("/",(req,res)=>{
+//     res.send("hey, im sujal!");
+// })
+// app.get("/about",(req,res)=>{
+//     res.send("this is about route.");
+// })
