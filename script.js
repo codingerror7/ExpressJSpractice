@@ -44,3 +44,9 @@ ANOTHER ROUND:
 // app.get("/services",(req,res)=>{
 //    res.send("This is services route!");
 // })
+// app.get("/home",(req,res)=>{
+//     res.send("HELLOW, THIS IS MIA BHAI");
+// })
+// app.post("/login",(req,res)=>{
+//     res.send("THIS IS POST ROUTE.");
+// })
