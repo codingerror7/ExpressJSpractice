@@ -50,3 +50,15 @@ ANOTHER ROUND:
 // app.post("/login",(req,res)=>{
 //     res.send("THIS IS POST ROUTE.");
 // })
+// app.get("/services",(req,res)=>{
+//     res.send("our services");
+// })
+// app.get("/signup",(req,res)=>{
+//     res.send("Please signup!");
+// })
+// app.get("/demo",(req,res)=>{
+//     res.send("take a demo...");
+// })
+// app.listen(port,()=>{
+//     console.log("171717717117");
+// })
