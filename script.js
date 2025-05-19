@@ -41,3 +41,6 @@ ANOTHER ROUND:
 // app.get("/about",(req,res)=>{
 //     res.send("this is about route.");
 // })
+// app.get("/services",(req,res)=>{
+//    res.send("This is services route!");
+// })
