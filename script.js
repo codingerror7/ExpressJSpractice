@@ -37,19 +37,19 @@ ANOTHER ROUND:
 // let port = 3000;
 // app.use("/",(req,res)=>{
 //     res.send("hey, im sujal!");
-// })
+// });
 // app.get("/about",(req,res)=>{
 //     res.send("this is about route.");
-// })
+// });
 // app.get("/services",(req,res)=>{
 //    res.send("This is services route!");
-// })
+// });
 // app.get("/home",(req,res)=>{
 //     res.send("HELLOW, THIS IS MIA BHAI");
-// })
+// });
 // app.post("/login",(req,res)=>{
 //     res.send("THIS IS POST ROUTE.");
-// })
+// });
 // app.get("/services",(req,res)=>{
 //     res.send("our services");
 // });
