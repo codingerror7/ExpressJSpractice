@@ -26,6 +26,13 @@ app.use("/",(req,res)=>{
 // app.put("/orange",(req,res)=>{
 //      res.send("THIS IS ORANGE!");
 //  })
+//PATH PARAMETRES
+//app.get("/:username",()=>{
+//        res.send(req.params.username);
+//});
+app.get("/:username/:age",(req,res)=>{
+    res.send(${req.params.username}, ${req.params.age});
+});
 app.listen(port,()=>{
     console.log(`WELCOME, YOU ARE AT PORT ${port}`);
 })
